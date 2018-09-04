@@ -1,0 +1,15 @@
+{
+  "extEnable": true,
+  "extAppid": "wx03b9bd2824fd9e21",
+  "ext": {
+    "apiurl": "https://yunshulian.cn",
+    "appid": "265",
+    "appkey": "7b16f2f99b2f2ac83dcaae1b18270766",
+    "skin": "skin1"    
+  },
+  "extPages": {},
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  }
+}
